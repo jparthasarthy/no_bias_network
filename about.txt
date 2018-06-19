@@ -1,0 +1,2 @@
+simple 3-layer neural network without bias 
+all layers are fully connected 
